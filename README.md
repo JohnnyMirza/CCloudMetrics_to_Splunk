@@ -1,4 +1,6 @@
-# CCloudMetrics_to_Splunk
+# Collect CCloud Metrics from the Metrics API (V1 at this stage), and prodouce into another cluster/topic. Then Sink to Splunk for Dashboarding.
+
+Kudo's to Oli Watson for creating the source connector. (also reach out to him if you have issue :P): https://www.confluent.io/blog/build-observability-pipelines-with-confluent-cloud-and-appdynamics/
 
 
 TL;DR
