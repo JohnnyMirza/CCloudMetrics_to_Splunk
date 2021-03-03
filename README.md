@@ -1,4 +1,4 @@
-# Confluent Clound Metrics API Collector - To Splunk
+# Confluent Cloud Metrics API Collector - To Splunk
 
 - Collect CCloud Metrics from the Metrics API (V1 at this stage), and prodouce into another cluster/topic. Then Sink to Splunk for Dashboarding.
 
